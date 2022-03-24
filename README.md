@@ -84,7 +84,7 @@ I'm a third-year student at PSIT, Kanpur pursuing B.Tech in Electricals and Comp
 
 <a href="https://github.com/priyanshi-497">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=priyanshi-497&show_icons=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-497&layout=compact" />
+<!--   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-497&layout=compact" /> -->
 </a>
 
 </br>
